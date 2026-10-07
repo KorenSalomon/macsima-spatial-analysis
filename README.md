@@ -13,8 +13,8 @@ per-sample values between groups or conditions.
 Python 3.12 (tested with 3.12.3 on Windows 11; no special hardware required).
 
 ```bash
-git clone https://github.com/<user>/<repository>.git
-cd <repository>
+git clone https://github.com/KorenSalomon/macsima-spatial-analysis.git
+cd macsima-spatial-analysis
 python -m pip install -r requirements.txt
 ```
 
